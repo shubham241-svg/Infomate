@@ -1,4 +1,4 @@
-# College Chatbot System
+# Infomate (College Chatbot System)
 
 ## Overview
 
